@@ -10,7 +10,6 @@ A simple kanban board to keep track of projects and tasks.
 - Drag & drop tasks
 - Add List
 - Add tasks to list
-- Dark Mode
 
 ## Development setup 🛠
 
