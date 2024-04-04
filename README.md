@@ -17,7 +17,7 @@ A simple kanban board to keep track of projects and tasks.
 Steps to locally setup development after cloning the project.
 
 ```sh
-
+git clone https://github.com/Leincentes/simple-kanban.git
 ```
 
 ### Step 1 - Dependencies
@@ -25,7 +25,6 @@ Steps to locally setup development after cloning the project.
 You will need:
 
 - [node](https://nodejs.org/)
-- [yarn](https://yarnpkg.com/en/docs/install) (Optional. Not Required if you use NPM)
 
 Please install them if you don't have them already.
 
@@ -38,7 +37,7 @@ cd simple-kanban
 ```
 
 ```shell
-yarn
+npm install or npm update
 ```
 
 ### Step 3 - Run app
@@ -46,7 +45,7 @@ yarn
 Once the dependencies are installed, you can run the app:
 
 ```shell
-yarn dev
+npm run dev
 ```
 
 Your browser should open up to a running app.
